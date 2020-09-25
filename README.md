@@ -7,5 +7,5 @@ My name's **Katrina** and I'm a web developer with an affinity for dynamic pages
 
 I'm currently working on improving my knowledge of data structures and building up my portfolio with some side projects. I like to keep things creative, interesting, and fun. My background is in fine art :art: and foreign languages :u7981: with stints in teaching and real estate. 
 
-I recently started creating a small business making and selling hand-painted figurines for tabletop games.:sparkles: :game_die: :gem: 
+:sparkles: :game_die: :gem: 
 In D&D, I'm currently a slightly belligerent gnome warlock accompanied by a porcine noble steed named Christopher Proscuitto Bacon :pig2: and Bogomoth, my hummingbird familiar :bird:.
